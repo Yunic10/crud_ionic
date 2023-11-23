@@ -1,0 +1,7 @@
+{
+  "name": "appmhs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
